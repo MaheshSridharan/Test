@@ -1,4 +1,3 @@
 # Table of contents
 
-* [Test](README.md)
-* [Hello World!!](hello-world.md)
+* [🤣 Try-Landing page](README.md)

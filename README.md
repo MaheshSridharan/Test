@@ -1,7 +1,3 @@
-# Test
+# 🤣 Try-Landing page
 
 Welcome to Test
-
-
-
-This is a test attempt to synch github and gitbook
